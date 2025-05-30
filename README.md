@@ -12,6 +12,14 @@ C’est un défi que je me suis donné pour progresser en informatique et dével
 
 N'ésitez pas à me donner des idées pour l'améliorer ou pour de nouveaux project futur !!
 
+Améliorations :
+|-Ajoute de la page ADM
+  | - Ajout de boutons intéractifs
+    | - Boutons Infos Dev
+    | - Boutons Alerte
+    | - Boutons Deconnextion
+    | - Boutons Liste des notifs
+  | - Ajout Copyright
 
 Merci !!
 Roméo LEONARD
