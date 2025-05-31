@@ -12,11 +12,11 @@ C’est un défi que je me suis donné pour progresser en informatique et dével
 
 N'ésitez pas à me donner des idées pour l'améliorer ou pour de nouveaux project futur !!
 
-Améliorations :
+    Améliorations :
 
-|-Ajoute de la page ADM
+    |-Ajoute de la page ADM
 
-  | - Ajout de boutons intéractifs
+    | - Ajout de boutons intéractifs
   
     | - Boutons Infos Dev
     
@@ -26,7 +26,7 @@ Améliorations :
     
     | - Boutons Liste des notifs
     
-  | - Ajout Copyright
+    | - Ajout Copyright
 
 Merci !!
 Roméo LEONARD
