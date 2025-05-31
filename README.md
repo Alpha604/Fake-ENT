@@ -8,7 +8,7 @@ Mon ENT permettrait de consulter les cours, les devoirs, les notes ou l’emploi
 
 Il est encore en phase de développement mais vous pouvez suivre l'avancer du project sur mon github que je met asser regulièremment à jour 💾
 
-C’est un défi que je me suis donné pour progresser en informatique et développer ma créativité.
+C’est un défi personel que je me suis donné pour progresser en informatique et développer ma créativité.
 
 N'ésitez pas à me donner des idées pour l'améliorer ou pour de nouveaux project futur !!
 
