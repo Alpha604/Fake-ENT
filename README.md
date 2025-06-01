@@ -12,19 +12,28 @@ C’est un défi personel que je me suis donné pour progresser en informatique 
 
 N'ésitez pas à me donner des idées pour l'améliorer ou pour de nouveaux project futur !!
 
+Améliorations :
+
     Améliorations :
 
     | - Ajout de la page ADM
-        | - Ajout de boutons intéractifs
+        | - Ajout de style (.css)
+        | - Ajout de boutons intéractifs (voir fonctionnalité-boutons.md)
             | - Boutons Infos Dev
             | - Boutons Alerte
             | - Boutons Deconnextion
             | - Boutons Liste des notifs
             | - Messagerie simple (beta)
-        | - Ajout Copyright
+        | - Ajout Copyright ©
     | - Ajout de la page ENFANT
-        | - Ajout de la messagerie
-    | - Modification des paramètre de la messagerie (voir infos messagerie)
+        | - Ajout de la messagerie enfant
+    | - Modification des paramètre de la messagerie (voir infos-messagerie.md)
+
+Arrive Bientôt :
+
+    | - Style Enfant (.css)
+    | - Page PARENT
+        | - Messagerie parent
 
 Merci !!
 Roméo LEONARD
