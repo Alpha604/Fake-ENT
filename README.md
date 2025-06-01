@@ -14,7 +14,7 @@ N'ésitez pas à me donner des idées pour l'améliorer ou pour de nouveaux proj
 
     Améliorations :
 
-    |-Ajoute de la page ADM
+    | - Ajout de la page ADM
         | - Ajout de boutons intéractifs
             | - Boutons Infos Dev
             | - Boutons Alerte
@@ -22,6 +22,9 @@ N'ésitez pas à me donner des idées pour l'améliorer ou pour de nouveaux proj
             | - Boutons Liste des notifs
             | - Messagerie simple (beta)
         | - Ajout Copyright
+    | - Ajout de la page ENFANT
+        | - Ajout de la messagerie
+    | - Modification des paramètre de la messagerie (voir infos messagerie)
 
 Merci !!
 Roméo LEONARD
