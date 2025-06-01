@@ -25,3 +25,7 @@ Limite de messages stockés (ex : 300) pour éviter une surcharge locale.
 Recherche rapide dans les messages (optionnelle).
 
 Cette messagerie est conçue pour fonctionner localement sans serveur, idéale pour des applications simples ou des démos. Elle est en développement et sera améliorée avec de nouvelles fonctionnalités et une meilleure interface.
+
+Roméo LEONARD
+
+© 2025 Roméo LEONARD. Tous droits réservés.
